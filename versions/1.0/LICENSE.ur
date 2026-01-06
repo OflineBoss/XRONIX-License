@@ -1,4 +1,4 @@
-XRONIX لائسنس
+XRONIX License
 - ورژن 1.0، 06 جنوری 2026
     کاپی رائٹ (ج) 2026 OflineBoss (https://github.com/OflineBoss)
 

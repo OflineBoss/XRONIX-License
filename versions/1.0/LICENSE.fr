@@ -1,4 +1,4 @@
-LICENCE XRONIX
+XRONIX License
 - Version 1.0, 06 janvier 2026
     Copyright (c) 2026 OflineBoss (https://github.com/OflineBoss)
 
