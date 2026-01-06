@@ -1,0 +1,62 @@
+LICENCE XRONIX
+- Version 1.0, 06 janvier 2026
+    Copyright (c) 2026 OflineBoss (https://github.com/OflineBoss)
+
+    La présente licence régit l'utilisation, la distribution et la modification
+    du produit logiciel "XRONIX License", ci-après dénommé "PRODUIT".
+    Le PRODUIT est fourni "TEL QUEL", sans aucune garantie, expresse ou
+    implicite, y compris, mais sans s'y limiter, les garanties de qualité marchande,
+    d'adéquation à un usage particulier et de non-violation des droits des tiers.
+    Le propriétaire des droits sur le PRODUIT est le CRÉATEUR DU PRODUIT EN LA PERSONNE DE "OflineBoss".
+
+    Vous êtes autorisé à :
+    1. Utiliser le PRODUIT à toute fin, y compris à des fins commerciales, à la condition
+
+    2. Modifier le PRODUIT pour un usage personnel, à la condition impérative
+       de conserver l'avis de copyright.
+
+    3. Distribuer la version originale ou modifiée du PRODUIT
+       à condition que tous les avis de copyright et
+       les termes de cette licence soient conservés.
+
+    4. Incorporer des parties du PRODUIT dans d'autres projets à condition que
+       les termes de cette licence soient respectés.
+
+    5. Créer des œuvres dérivées basées sur le PRODUIT avec l'obligation
+       d'attribution et de conservation des avis de copyright.
+
+    6. Utiliser le PRODUIT à des fins éducatives, de recherche et
+       non commerciales sans limitations.
+
+    7. Utiliser le PRODUIT au sein de structures corporatives ou organisationnelles
+       tout en respectant les termes de cette licence.
+
+    8. Transférer les droits d'utilisation du PRODUIT à des tiers
+       à condition que tous les termes de cette licence soient respectés.
+
+    9. Utiliser le PRODUIT sur n'importe quel nombre d'appareils ou de plates-formes
+       sans frais de licence supplémentaires.
+
+    10. Recevoir des mises à jour et des corrections pour le PRODUIT de la part du CRÉATEUR
+        DU PRODUIT, si celles-ci sont fournies.
+
+    L'utilisation du PRODUIT constitue l'acceptation pleine et entière des termes de cette licence.
+    Si vous n'êtes pas d'accord avec les termes de cette licence, vous n'êtes pas autorisé à
+    utiliser le PRODUIT.
+
+    IL VOUS EST INTERDIT :
+    1. De supprimer ou de modifier les avis de copyright et les termes de
+       cette licence dans le PRODUIT.
+
+    LE CRÉATEUR DU PRODUIT NE PEUT ÊTRE TENU RESPONSABLE DE TOUT DOMMAGE DIRECT,
+    INDIRECT, ACCESSOIRE, SPÉCIAL OU CONSÉCUTIF,
+    RÉSULTANT DE L'UTILISATION OU DE L'IMPOSSIBILITÉ D'UTILISER LE PRODUIT,
+    MÊME SI LE CRÉATEUR DU PRODUIT A ÉTÉ INFORMÉ DE LA POSSIBILITÉ
+    DE TELS DOMMAGES.
+
+    L'utilisation du PRODUIT signifie que vous acceptez les termes de cette licence.
+    En cas de désaccord avec les termes de cette licence, veuillez cesser
+    d'utiliser le PRODUIT et supprimer toutes ses copies.
+
+    Cette licence est rédigée sur la base du modèle standard :
+    XRONIX License Version 1.0
